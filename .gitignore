@@ -9,3 +9,6 @@ components.d.ts
 *.pdf
 *.png
 !screenshots/**/*.png
+
+# myco worktree mount point (created by `myco init`)
+project/
